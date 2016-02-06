@@ -1,10 +1,10 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Basic calorie calcation android app. Enter your numeric data, select reps or minutes as the metric, and select your activity. Displays the calories burned if the correct combination (metric - activity) is used, and displays the equivalent effort from other activities needed to be done to achieve the same level of calories burned.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Owen Chen owenchen@berkeley.edu
 
 ## Demo Video
 
